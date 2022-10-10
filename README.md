@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**DarkIntaqt/DarkIntaqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DarkIntaqt
+</div>
 
-Here are some ideas to get you started:
+Hey! I'm DarkIntaqt. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects
+Check out a few of my projects
+
+### My Blog 📝
+* [Blog](https://darkintaqt.com)
+
+### Challenge Tracker 🔎
+[![Challenge Tracker](https://lolcdn.darkintaqt.com/cdn/challenge-preview.png "Challenge Tracker")](https://challenges.darkintaqt.com)
+
+## Languages I use
+<div align="center">
+
+![Top Langs](https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,react,postgres,bash,mysql)
+
+</div>
