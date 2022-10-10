@@ -1,9 +1,10 @@
+Hey! I'm DarkIntaqt. 
+
 <div align="center">
 
-# DarkIntaqt
-</div>
+![Top Langs](https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,react,postgres,bash,mysql)
 
-Hey! I'm DarkIntaqt. 
+</div>
 
 ## My projects
 Check out a few of my projects
@@ -13,10 +14,3 @@ Check out a few of my projects
 
 ### Challenge Tracker 🔎
 [![Challenge Tracker](https://lolcdn.darkintaqt.com/cdn/challenge-preview.png "Challenge Tracker")](https://challenges.darkintaqt.com)
-
-## Languages I use
-<div align="center">
-
-![Top Langs](https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,react,postgres,bash,mysql)
-
-</div>
