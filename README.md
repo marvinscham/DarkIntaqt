@@ -2,7 +2,7 @@ Hey! I'm DarkIntaqt.
 
 <div align="center">
 
-![Top Langs](https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,react,postgres,bash,mysql)
+![Top Langs](https://skillicons.dev/icons?i=js,ts,html,css,php,py,nodejs,react,postgres,bash,mysql)
 
 </div>
 
